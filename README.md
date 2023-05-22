@@ -1,0 +1,1 @@
+Simple Spring Boot app with Spring Data JPA and H2 (Unmaintained) 
